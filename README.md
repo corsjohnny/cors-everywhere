@@ -1,0 +1,2 @@
+# cors-everywhere
+corsfiles
